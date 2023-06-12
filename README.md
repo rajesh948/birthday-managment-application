@@ -1,3 +1,5 @@
+vue js project
+
 # birthday_application
 
 ## Project setup
